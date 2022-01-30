@@ -23,7 +23,6 @@ include_directories(tree_sitter)
 include_directories(language/python/tree_sitter)
 
 
-
 add_library( # Sets the name of the library.
         tree_sitter
 
